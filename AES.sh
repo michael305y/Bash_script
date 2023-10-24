@@ -1,9 +1,8 @@
-'''
-Script to decode AES using base64
-'''
-/* 
+:<<'COMMENT'
 
-**/
+=== SCRIPT TO DECODE AES USING BASE64
+
+COMMENT
 
 #!/bin/bash
 # Decode the key and IV from base64 and convert to hexadecimal
