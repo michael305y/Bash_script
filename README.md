@@ -1,2 +1,2 @@
-# Bash_script
-bash scripts
+# JS and appscripts
+JS and App scripts projects
